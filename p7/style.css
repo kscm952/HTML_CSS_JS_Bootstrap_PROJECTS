@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    border: 5px solid #0967d219;
+    padding: 10px;
+}
+
+.know-more-section {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.know-more-heading {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.custom-button {
+    height: 30px;
+    width: 100px;
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #0967d2;
+    border-radius: 8px;
+    border: 0px solid transparent;
+}
+
+.know-more-image {
+    height: 95px;
+    width: 125px;
+}
+
+.covid-test-section {
+    background-color: #0967d219;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.covid-test-image {
+    height: 60px;
+    width: 60px;
+}
+
+.covid-test-heading {
+    font-size: 18px;
+}
+
+.covid-test-details {
+    color: #707070;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.symptoms-section {
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.symptoms-section-heading {
+    font-size: 18px;
+}
+
+.symptoms-section-container-1 {
+    background-color: #3ebd93;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    border: 0px solid transparent;
+    border-radius: 10px;
+}
+
+.symptoms-section-container-2 {
+    background-color: #e668a7;
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    border: 0px solid transparent;
+    border-radius: 10px;
+}
+
+.symptoms-section-container-3 {
+    background-color: #a368fc;
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    border: 0px solid transparent;
+    border-radius: 10px;
+}
+
+.symptoms-section-details {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.video-section {
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.video-section-heading {
+    font-size: 18px;
+}
+
+.card-container {
+    background-color: #e12d3919;
+    padding: 10px;
+}
+
+.card-image {
+    height: 60px;
+    width: 60px;
+}
+
+.card-heading {
+    font-size: 18px;
+}
+
+.card-details {
+    color: #707070;
+    font-size: 14px;
+}
